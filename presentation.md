@@ -193,7 +193,7 @@ public string FizzBuzzTest(int number)
 
 ---
 
-自分でeachやブロックわ書かなくてよい
+自分でeachやブロックを書かなくてよい
 誰が書いても同じ書き方になる
 テストコードが読みやすい
 
